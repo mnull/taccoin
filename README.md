@@ -1,4 +1,4 @@
-taccoin integration/staging tree
+TAC-Coin integration/staging tree
 ================================
 
 http://taccoin.info
