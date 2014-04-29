@@ -1,15 +1,14 @@
 taccoin integration/staging tree
 ================================
 
-http://www.taccoin.org
+http://taccoin.info
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 taccoin Developers
 
-What is taccoin?
+
+What is TAC-Coin?
 ----------------
 
-taccoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+TAC-Coin is a the crypro currency for operators. It's also a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
@@ -19,12 +18,12 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the taccoin client sofware, see http://www.taccoin.org.
+the taccoin client sofware, see http://www.taccoin.info.
 
 License
 -------
 
-taccoin is released under the terms of the MIT license. See `COPYING` for more
+TAC-Coin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
